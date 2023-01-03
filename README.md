@@ -1,2 +1,4 @@
 # Insertion_and_Deletion_in_Array
-This repository contains the source code of the program.
+This repository contains the source code of the program ->
+Insertion in the Array.
+Deletion in the Array.
