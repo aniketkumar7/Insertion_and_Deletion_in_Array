@@ -1,3 +1,6 @@
+// This is a C program to delete an element from an Array.
+
+
 #include<stdio.h>
 int main()
 {
