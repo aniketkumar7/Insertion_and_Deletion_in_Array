@@ -1,4 +1,4 @@
-# Insertion_and_Deletion_in_Array
+# Insertion and Deletion in Array
 This repository contains the source code of the program ->
 <br>
 <ul>
